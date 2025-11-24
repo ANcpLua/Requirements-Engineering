@@ -153,10 +153,10 @@ request"
 **Techniques:**
 
 - **Osborn Checklist** (adapt/modify/combine/eliminate)
-    - What if we add AI?
-    - What if users control it by voice?
-    - What if it works offline?
-    - What if it integrates with [popular tool]?
+  - What if we add AI?
+  - What if users control it by voice?
+  - What if it works offline?
+  - What if it integrates with [popular tool]?
 - Brainstorming sessions
 - Design thinking workshops
 - Competitive differentiation analysis
@@ -1778,32 +1778,37 @@ validated").
 ## E. Quick Wins: 5 Things to Do Monday Morning
 
 1. **Create a Glossary Template**
-    - Open spreadsheet/doc
-    - Add columns: Term, Description, Synonyms, Examples, Non-Examples
-    - Add first 5 terms from your current project
-    - Share with team
+
+- Open spreadsheet/doc
+- Add columns: Term, Description, Synonyms, Examples, Non-Examples
+- Add first 5 terms from your current project
+- Share with team
 
 2. **Audit One Requirement for INVEST**
-    - Pick your most important requirement
-    - Score it 1-5 on each INVEST criterion
-    - Rewrite anything scoring <4
-    - Use as template for others
+
+- Pick your most important requirement
+- Score it 1-5 on each INVEST criterion
+- Rewrite anything scoring <4
+- Use as template for others
 
 3. **Identify Your Unstable Requirements**
-    - List all requirements
-    - Mark stable (rarely changes) vs. unstable (often changes)
-    - Check: Are unstable requirements isolated in architecture?
-    - If no, flag for refactoring
+
+- List all requirements
+- Mark stable (rarely changes) vs. unstable (often changes)
+- Check: Are unstable requirements isolated in architecture?
+- If no, flag for refactoring
 
 4. **Build a Sources Checklist**
-    - List: What regulations apply?
-    - List: What existing systems are similar?
-    - List: Who are all stakeholders?
-    - Schedule interviews with gaps
+
+- List: What regulations apply?
+- List: What existing systems are similar?
+- List: Who are all stakeholders?
+- Schedule interviews with gaps
 
 5. **Start Traceability Matrix**
-    - Spreadsheet with columns: Requirement ID | Description | Source | Stakeholder | Design Element | Test Case
-    - Fill in top 10 requirements
-    - Expand weekly
+
+- Spreadsheet with columns: Requirement ID | Description | Source | Stakeholder | Design Element | Test Case
+- Fill in top 10 requirements
+- Expand weekly
 
 **Result:** In one morning, you'll have 5 practices that prevent 80% of common requirements problems.
